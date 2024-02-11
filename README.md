@@ -3,8 +3,11 @@
  <a href="https://orcid.org/0000-0002-6436-7069">
   <img src="https://img.shields.io/badge/orcid-Marat%20Sadykov-blue?style=flat-square&logo=orcid">
  </a>
+ <a href="https://github.com/SmugglerSMR/Professional_CV/releases">
+  <img src="https://img.shields.io/badge/Resume-Marat%20Sadykov-blue?style=flat-square&logo=overleaf">
+ </a>
  <a href="https://hub.docker.com/u/smugglersmr">
-  <img src="https://img.shields.io/badge/docker-Marat%20Sadykov-blue?style=flat-square&logo=docker">
+  <img src="https://img.shields.io/badge/docker-Sadykov-blue?style=flat-square&logo=docker">
  </a>
  <a href="https://au.linkedin.com/in/marat-sadykov-0a93b0133">
   <img src="https://img.shields.io/badge/linkedin-Marat%20Sadykov-blue?style=flat-square&logo=linkedin">
@@ -50,7 +53,7 @@ The content can be accessed over the MPhil thesis in Chapter 5.
 |2018| [Posture Detection](https://github.com/SmugglerSMR/posture-xcode)| Human posture maintenance via webcam image processing and display blurs, implemented with [TF-Xcode](https://github.com/SmugglerSMR/tf-xcode) | ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow) |
 |2018| [Animal detection](https://github.com/SmugglerSMR/Faster-RCNN-InceptionV2-Video-Images-Processing)| Detecting animals from the video stream. | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow) ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter) ![pyQT](https://img.shields.io/badge/-pyQT-black?style=flat-square&logo=qt) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) |
 |2018| [Gaze detection](https://github.com/SmugglerSMR/Faster-RCNN-Gaze-Detection)| Direction of human eyes view from image recognition. | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow) ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter) |
-|2017| [NFC Receipts beamer](https://github.com/SmugglerSMR/DS_NFCBeam) | DeeepSenses' project on beaming receipts initially upgraded OpenSourced code to the [current API](https://github.com/SmugglerSMR/NFCP2P_Demo_15). A similar attempt was made for iOS. |![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk&logoColor=red) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=androidstudio) |
+|2017| [NFC Receipts beamer](https://github.com/SmugglerSMR/DS_NFCBeam) | [DeeepSenses' project](https://github.com/sree-kanth/NFCApp) on beaming receipts initially upgraded OpenSourced code to the [current API](https://github.com/SmugglerSMR/NFCP2P_Demo_15). A similar attempt was made for [iOS](https://github.com/sree-kanth/NFC_iOSApp). |![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk&logoColor=red) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=androidstudio) |
 |2017| [VI Kitchen Assistant](https://github.com/SmugglerSMR/UnityVR_KitchenSimulation_LaTex/releases/tag/final)| The university sponsored the Vocation Research Project (VRES). | ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp) ![Unity3D](https://img.shields.io/badge/-Unity3D-black?style=flat-square&logo=unity) |
 |2017| [Digital Voice Recorder](https://github.com/SmugglerSMR/EGB240_Recorder) | Embedded Systems Design of Digital Voice Recorder with Teensy and Chebyshev anti-aliasing filter LMC6484. | ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c) ![Teensy](https://img.shields.io/badge/-Teensy-black?style=flat-square&logo=teensy)
 <!--|2017| Supernova Remnant Visualisation | Large raw dataset visualisation with ParaView as part of university task. | ![ParaView](https://img.shields.io/badge/-ParaView-black?style=flat-square&logo=paraview) | -->
