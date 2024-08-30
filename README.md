@@ -32,7 +32,7 @@
 * Sadykov, M.; Haines, S.; Broadmeadow, M.; Walker, G.; Holmes, D.W. Practical Evaluation of Lithium-Ion Battery State-of-Charge Estimation Using Time-Series Machine Learning for Electric Vehicles. *Energies* **2023**, *16*, 1628. [https://doi.org/10.3390/en16041628](https://doi.org/10.3390/en16041628 "Aricle Location") \
 Source code and figures available since 24/01/2024: [JA1-Analysis](https://github.com/SmugglerSMR/JA1-Analysis) ✅ Published
 <!--Open Source available date and count  | [Cited by 1](https://www.mdpi.com/1996-1073/16/4/1628#metrics) | Viewed by 1460 -->
-* Sadykov, M.; Haines, S.; Walker, G.; Holmes, D.W. Feed-Forward State of Charge Estimation Using Time-Series Machine Learning Prediction With Autoregressive Models. Submitted to Journal of Energy Storage. 🛑 Under review \
+* Marat Sadykov, Sam Haines, Geoffrey Walker, David William Holmes, Feed-forward State of Charge estimation of LiFePO4 batteries using time-series machine learning prediction with autoregressive models, Journal of Energy Storage, Volume 100, Part A, 2024, 113516, ISSN 2352-152X, https://doi.org/10.1016/j.est.2024.113516. ✅ Published
 Source code will be available upon request from the journal or after publication.
 * Real-Time SoC estimation using RNN on an accumulator cycling data with a bi-directional power supplier. ❌ Implementation is outdated and untested for publication usage. \
 The content can be accessed over the MPhil thesis in Chapter 5.
