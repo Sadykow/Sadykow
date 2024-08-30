@@ -34,10 +34,11 @@ Source code and figures available since 24/01/2024: [JA1-Analysis](https://githu
 <!--Open Source available date and count  | [Cited by 4](https://www.mdpi.com/1996-1073/16/4/1628#metrics) | Viewed by 2131 -->
 * Sadykov, M.; Haines, S.; Walker, G.; Holmes, D.W. Feed-forward State of Charge estimation of LiFePO4 batteries using time-series machine learning prediction with autoregressive models, Journal of Energy Storage, Volume 100, Part A, 2024, 113516, ISSN 2352-152X, [https://doi.org/10.1016/j.est.2024.113516](https://doi.org/10.1016/j.est.2024.113516 "Article Location"). \
 Source code and figures available since 29/08/2024: [JA2-Autoregression](https://github.com/SmugglerSMR/JA2-Autoregression) ✅ Published
-* Real-Time SoC estimation using RNN on an accumulator cycling data with a bi-directional power supplier. ❌ Implementation is outdated and untested for publication usage. \
+
+* Real-time SoC estimation using RNN on accumulator cycling data with a bi-directional power supplier with Artemis controllers. ❌ Implementation is outdated and untested for publication usage. \
 The content can be accessed over the MPhil thesis in Chapter 5.
 
-### 🖥️ Projects overview
+### 🖥️ Projects Overview
 <!-- table -->
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 |  Years  |         Title              | Descriptions                      | Tools                           |
