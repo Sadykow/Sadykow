@@ -6,14 +6,14 @@
  <a href="https://github.com/Sadykow/Professional_CV/releases">
   <img src="https://img.shields.io/badge/Resume-Marat%20Sadykov-blue?style=flat-square&logo=overleaf">
  </a>
- <a href="https://hub.docker.com/u/smugglersmr">
+ <!-- <a href="https://hub.docker.com/u/smugglersmr">
   <img src="https://img.shields.io/badge/docker-Sadykov-blue?style=flat-square&logo=docker">
- </a>
+ </a> -->
  <a href="https://au.linkedin.com/in/marat-sadykov-0a93b0133">
   <img src="https://img.shields.io/badge/linkedin-Marat%20Sadykov-blue?style=flat-square&logo=linkedin">
  </a>
- <a href="mailto:sadykovmarat@pm.me">
-  <img src="https://img.shields.io/badge/Email-sadykovmarat-red?style=flat-square&logo=proton&logoColor=white">
+ <a href="mailto:marat@sadukow.com">
+  <img src="https://img.shields.io/badge/Email-marat@sadukow-red?style=flat-square&logo=proton&logoColor=white">
  </a>
 </p>
 <p align="left">
